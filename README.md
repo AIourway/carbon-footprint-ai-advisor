@@ -6,6 +6,7 @@ Carbon footprint advisor. Tracker, Estimator & Real time Advisor.
 This repo can be deployed on Streamlit Community Cloud using the provided `requirements.txt`.
 
 - App entrypoints:
+  - `carbonfootprint.py` (Streamlit carbon footprint calculator)
   - `app.py` (tracker + estimator)
   - `reduction_app.py` (advisor)
 - Requirements:
@@ -16,5 +17,11 @@ This repo can be deployed on Streamlit Community Cloud using the provided `requi
 1. Push this repo to GitHub.
 2. Open https://share.streamlit.io.
 3. Connect your GitHub repository.
-4. Set the app file path to `app.py` or `reduction_app.py`.
+4. Set the app file path to `carbonfootprint.py` or `app.py`.
 5. Deploy.
+
+### GitHub URL
+
+Use this repository URL in Streamlit Cloud:
+
+`https://github.com/AIourway/carbon-footprint-ai-advisor`
